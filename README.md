@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 🔗 Contact me:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/paupallares/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=c32aa3)](https://instagram.com/ppupipallares) 
-![Static Badge](https://img.shields.io/badge/audiovisual?link=https%3A%2F%2Fvimeo.com%2Fppaupallares)
+![image]({https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white})
 
-⚡ Fun fact: my first contact with programming was an interactive installation with 360 kinect and a 3D printed mountains, it was part of an exhibition in the Museum of Modern Arts in Buenos Aires, check it out: <a>https://vimeo.com/256058743</a>
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)]([https://youtu.be/vt5fpE0bzSY](https://vimeo.com/256058743))
+⚡ Fun fact: my first contact with programming was an interactive installation with 360 kinect and a 3D printed mountains, it was part of an exhibition in the Museum of Modern Arts in Buenos Aires, check it out: <a href="https://vimeo.com/256058743">Vimeo</a>
+
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=paupallares)](https://github.com/paupallares/github-readme-stats&theme=tokyonight)
 
