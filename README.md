@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, Im Paula 👋
 
 <!--
 **paupallares/PauPallares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,14 +35,17 @@ Here are some ideas to get you started:
 - Business Intelligence
 - Data Science
 
-🔗 Links
+- [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
+🔗 Contact me:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/paupallares/)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=00a7ce)](https://discord.gg/vfBu9hN3a4)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=c32aa3)](https://instagram.com/ppupipallares) 
 ![Static Badge](https://img.shields.io/badge/audiovisual?link=https%3A%2F%2Fvimeo.com%2Fppaupallares)
 
 ⚡ Fun fact: my first contact with programming was an interactive installation with 360 kinect and a 3D printed mountains, it was part of an exhibition in the Museum of Modern Arts in Buenos Aires, check it out: <a>https://vimeo.com/256058743</a>
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)]([https://youtu.be/vt5fpE0bzSY](https://vimeo.com/256058743))
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=paupallares)](https://github.com/paupallares/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=paupallares)](https://github.com/paupallares/github-readme-stats&theme=tokyonight)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
