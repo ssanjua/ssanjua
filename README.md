@@ -1,9 +1,9 @@
 # Hi there, Im Paula 👋 
 
-## 🔥 I'm currently working on strengthening my knowledge.
-## 💡 Looking to collaborate on new projects and Challenges.
-## 🤔 I’m looking for help with optimizing web sites and databases.
-## 📹 I'm also a filmmaker, you can check out my material above.
+🔥 I'm currently working on strengthening my knowledge.
+💡 Looking to collaborate on new projects and Challenges.
+🤔 I’m looking for help with optimizing web sites and databases.
+📹 I'm also a filmmaker, you can check out my material above.
 
 ## 🛠 Skills
 
@@ -26,12 +26,16 @@
 
 ## 🔗 Contact me:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/paupallares/)
-[![General badge](https://img.shields.io/badge//Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://instagram.com/ppupipallares)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ppupipallares)
+[![Facebook](https://img.shields.io/badge//Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ppablahoney)
 
 
 ## ⚡ Fun fact: 
 My first contact with programming was an interactive installation with 360 kinect and a 3D printed mountains using processing as a programming language, it was part of an exhibition in the Museum of Modern Arts in Buenos Aires, check it out: <a href="https://vimeo.com/256058743">Vimeo</a>
 
+👩🏻‍💻 + 🎮 + ❤️ + 🧠 = 🎨👌🏼
+
+## GitHub stats
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
 
 ## ✍️ Random Dev Quote
