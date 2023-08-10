@@ -1,5 +1,7 @@
 # Hi there, Im Paula 👋 
 
+<img href="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=24&duration=7000&pause=500&color=CF0000&width=500&lines=DATA+ENGINEER+%26+BACKEND+DEVELOPER">
+
 🔥 I'm currently working on strengthening my knowledge.
 💡 Looking to collaborate on new projects and Challenges.
 🤔 I’m looking for help with optimizing web sites and databases.
