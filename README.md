@@ -41,6 +41,7 @@ My first contact with programming was an interactive installation with 360 kinec
 
 ## GitHub stats
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppaupallares&layout=compact)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
