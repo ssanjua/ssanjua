@@ -1,7 +1,7 @@
 # Hi there, Im Paula 👋 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=7000&pause=500&color=CF0000&width=500&lines=DATA+ENGINEER+%26+BACKEND+DEVELOPER" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=7000&pause=500&color=CF0000&width=500&lines=DATA+SCIENTIST+%26+FUTURE+DEVELOPER" alt="Typing SVG" /></a>
 <p align="center">
 
 🔥 I'm currently working on strengthening my knowledge.
