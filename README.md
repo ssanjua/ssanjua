@@ -43,7 +43,7 @@ My first contact with programming was an interactive installation with 360 kinec
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=ssanjua&show_icons=true&theme=tokyonight)
 
 ## Repo languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssanjua&layout=donut-vertical&size_weight=0.5&count_weight=0.5&hide=Cython))](https://github.com/ssanjua/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssanjua&layout=compact&size_weight=0.5&count_weight=0.5&hide=Cython))](https://github.com/ssanjua/github-readme-stats)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
