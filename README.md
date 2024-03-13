@@ -26,7 +26,7 @@
 -  Data Science
 
 ## 👩🏻‍💻 Main skills: 
-[![My Skills](https://skillicons.dev/icons?i=ae,py,postgres,mysql,vscode,gcp&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ae,js,py,postgres,mysql,vscode,gcp&theme=light)](https://skillicons.dev)
 
 ## 🔗 Contact me:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/paupallares/)
