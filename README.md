@@ -11,22 +11,7 @@
 
 ## 🛠 Skills
 
--  Python
-- Machine Learning
--  JavaScript
--  Tableau
--  ETL/ELT
--  SQL
--  NoSQL
--  Cloud Computing
--  Statistics
--  Big data (Hadoop, Spark, Docker)
--  Data Visualization
--  Business Intelligence
--  Data Science
-
 ## 👩🏻‍💻 Main skills: 
-[![My Skills](https://skillicons.dev/icons?i=ae,js,py,postgres,mysql,vscode,gcp&theme=light)](https://skillicons.dev)
 
 ## 🔗 Contact me:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/paupallares/)
@@ -38,13 +23,6 @@
 My first contact with programming was an interactive installation with 360 kinect and a 3D printed mountains using processing as a programming language, it was part of an exhibition in the Museum of Modern Arts in Buenos Aires, check it out: <a href="https://vimeo.com/256058743">Vimeo</a>
 
 👩🏻‍💻 + 🎮 + ❤️ + 🧠 = 🎨👌🏼
-
-## GitHub stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssanjua&show_icons=true&theme=transparent)
-
-## Repo languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssanjua&layout=compact)
-
 
 
 ## ✍️ Random Dev Quote
