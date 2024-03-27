@@ -52,7 +52,11 @@ I'm a full stack developer currently working in building MERN aplications.
 
 👩🏻‍💻 + 🎮 + ❤️ + 🧠 = 🎨👌🏼
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssanjua&layout=compact)
+
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=verticall&theme=dark)
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=ssanjua)
 
 
