@@ -1,8 +1,6 @@
 # Hi there, Im Paula 👋 
 
-<p align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=F74242&random=false&width=435&lines=full+stack+developer)](https://git.io/typing-svg)
-<p align="center">
 
 ## 🚀 About Me
 I'm a full stack developer currently working in building MERN aplications.
@@ -55,7 +53,6 @@ I'm a full stack developer currently working in building MERN aplications.
 👩🏻‍💻 + 🎮 + ❤️ + 🧠 = 🎨👌🏼
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=verticall&theme=dark)
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> See you later!</h1>
 
