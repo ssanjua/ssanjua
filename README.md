@@ -1,11 +1,11 @@
-# Hi there, Im Paula 👋 
-## also known as ssanjua.
+# Hi there, Im Paula 👋 ##also known as ssanjua.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=F74242&random=false&width=435&lines=full+stack+developer)](https://git.io/typing-svg)
 
 ## 🚀 About Me
-I'm a full stack developer currently working in building MERN aplications.
-I am from a small town, San Juan, always a fan of crafting things, fixing computers and inventing new devices by disassembling and assembling what I found. Passionate about technology and committed to creating products that make a difference, my experience in the multimedia sector has shaped me in leadership and collaborative work. Specialized in technologies such as JavaScript, React, Node.js, and SQL/NoSQL databases.
+📍 Currently based in Barcelona, Spain | 💻 Full Stack Developer | 🌟 Passionate about creating technologies that make a difference. With a background in multimedia and a knack for leadership, I specialize in JavaScript, React, Node.js, and more. My journey in tech started with an interactive installation at the Museum of Modern Arts in Buenos Aires, and since then, I've been committed to merging creativity with technology.
+
+🔗 [Visit My Portfolio](https://ssanjua.vercel.app)
 
 ## 🛠 Skills
 
