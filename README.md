@@ -1,9 +1,11 @@
 # Hi there, Im Paula 👋 
+## also known as ssanjua.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=F74242&random=false&width=435&lines=full+stack+developer)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 I'm a full stack developer currently working in building MERN aplications.
+I am from a small town, San Juan, always a fan of crafting things, fixing computers and inventing new devices by disassembling and assembling what I found. Passionate about technology and committed to creating products that make a difference, my experience in the multimedia sector has shaped me in leadership and collaborative work. Specialized in technologies such as JavaScript, React, Node.js, and SQL/NoSQL databases.
 
 ## 🛠 Skills
 
@@ -34,13 +36,15 @@ I'm a full stack developer currently working in building MERN aplications.
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) ![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white) ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ssanjua.vercel.app) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/paupallares/) 
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/ssanjuaa) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/pupipallares) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ppaupallares@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](www.instagram.com/ppupipallares) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
  
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo]()
 
 
 ## Other Common Github Profile Sections
+
 👩‍💻 I'm currently working on a booking site, here's the repository: ![Repo](https://github.com/ssanjua/booking-web)
 
 🧠 I'm currently learning React and Typescript
@@ -54,7 +58,7 @@ I'm a full stack developer currently working in building MERN aplications.
 
 👩🏻‍💻 + 🎮 + ❤️ + 🧠 = 🎨👌🏼
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssanjua&layout=compact&hide=jupyter%20notebook&theme=dark) ![](https://quotes-github-readme.vercel.app/api?type=verticall&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssanjua&layout=compact&hide=jupyter%20notebook&theme=dark)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=ssanjua)
 
