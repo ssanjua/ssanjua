@@ -1,4 +1,4 @@
-# Hi there, Im Paula 👋 also known as ssanjua 👩🏻‍💻
+## Hi there, Im Paula 👋 also known as ssanjua 👩🏻‍💻
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ssanjua.vercel.app)
 
@@ -7,8 +7,7 @@
 
 [![Screenshot-2024-04-21-at-16-49-23.png](https://i.postimg.cc/8CF2Y8TM/Screenshot-2024-04-21-at-16-49-23.png)](https://postimg.cc/06sX6BMy)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssanjua&layout=compact&hide=jupyter%20notebook&theme=dark) [![ssanjua's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ssanjua&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ssanjua/github-readme-stats#gh-dark-mode-only)
-
+ [![ssanjua's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ssanjua&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ssanjua/github-readme-stats#gh-dark-mode-only) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssanjua&layout=compact&hide=jupyter%20notebook&theme=dark)
 
 ## Socials
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paupallares/) 
