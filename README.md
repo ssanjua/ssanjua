@@ -1,17 +1,12 @@
 ![banner](banner_v01.png)
 
-<table style=<table style="width:100%">
-<tr>
-<td>
+
 📍 Currently based in Barcelona, Spain | 💻 Full Stack Developer | 🌟 Passionate about creating technologies that make a difference. With a background in multimedia and a knack for leadership, I specialize in JavaScript, React, Node.js, and more. My journey in tech started with an interactive installation at the Museum of Modern Arts in Buenos Aires, and since then, I've been committed to merging creativity with technology.
-</td>
-<td>
 
-<a href="https://ssanjua.vercel.app"><img src="portfolio.png" alt="Portfolio Web" width="3500"/></a>
+<p align="center" >
+<a href="https://ssanjua.vercel.app"><img src="portfolio.png" alt="Portfolio Web" width="50%"/></a>
+</p>
 
-</td>
-</tr>
-</table>
 
 ### 💬 SOCIALS
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ssanjua.vercel.app)[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paupallares/) 
@@ -36,8 +31,8 @@
 <a align="center" href="https://www.youtube.com/@atleticooeste8978"><img src="atleticoOeste.webp" alt="Atletico Oeste YouTube" width="3500"/></a>
 
 <p align="center">
-<a href="https://vimeo.com/554494167?share=copy"><img src="reelDirector.webp" alt="Editor and Director Reel Vimeo" width="45%"/></a>
-<a href="https://vimeo.com/554523559?share=copy"><img src="musicVideos.webp" alt="Music Videos Vimeo" width="45%"/></a>
+<a href="https://vimeo.com/554494167?share=copy"><img src="reelDirector.webp" alt="Editor and Director Reel Vimeo" width="35%"/></a>
+<a href="https://vimeo.com/554523559?share=copy"><img src="musicVideos.webp" alt="Music Videos Vimeo" width="35%"/></a>
 
 </p>
 
