@@ -1,11 +1,11 @@
 ![banner](banner_v01.png)
 
 
-<table style="border-collapse: collapse; border: none;">
+<table style=<table style="width:100%">">
 <tr>
 <td style="border: none;">
 
-<a href="https://ssanjua.vercel.app"><img src="portfolio.png" alt="Portfolio Web" width="1500"/></a>
+<a href="https://ssanjua.vercel.app"><img src="portfolio.png" alt="Portfolio Web" width="4100"/></a>
 
 </td>
 <td style="border: none;">
