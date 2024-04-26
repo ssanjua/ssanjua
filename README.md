@@ -2,10 +2,21 @@
 ![banner](banner_v01.png)
 
 
-![portfolioweb](portfolio.png)
+<table style="border-collapse: collapse; border: none;">
+<tr>
+<td style="border: none;">
+
+<img src="portfolio.png" alt="Portfolio Web" width="300"/>
+
+</td>
+<td style="border: none;">
 
 ## 🚀 About Me
 📍 Currently based in Barcelona, Spain | 💻 Full Stack Developer | 🌟 Passionate about creating technologies that make a difference. With a background in multimedia and a knack for leadership, I specialize in JavaScript, React, Node.js, and more. My journey in tech started with an interactive installation at the Museum of Modern Arts in Buenos Aires, and since then, I've been committed to merging creativity with technology.
+
+</td>
+</tr>
+</table>
 
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ssanjua.vercel.app)[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paupallares/) 
@@ -17,7 +28,7 @@
  [![ssanjua's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ssanjua&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ssanjua/github-readme-stats#gh-dark-mode-only) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssanjua&layout=compact&hide=jupyter%20notebook&theme=dark)
 
  
-![Projects](projects_v01.png)
+![Projects](projectsDark.png)
 
 👩‍💻 I'm currently working on a booking site.
 
