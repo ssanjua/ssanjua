@@ -33,11 +33,13 @@
 
 📹 I'm also a filmmaker, founder of Atletico Oeste, you can check out some of my work here: 
 
-<a href="https://www.youtube.com/@atleticooeste8978"><img src="atleticoOeste.webp" alt="Portfolio Web" width="3500"/></a>
+<a align="center" href="https://www.youtube.com/@atleticooeste8978"><img src="atleticoOeste.webp" alt="Atletico Oeste YouTube" width="3500"/></a>
 
-<div style="padding:28.125%  0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/554494167?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="REEL2021 - pau pallares - DIS IMAGEN Y SONIDO"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<p align="center">
+<a href="https://vimeo.com/554494167?share=copy"><img src="reelDirector.webp" alt="Editor and Director Reel Vimeo" width="45%"/></a>
+<a href="https://vimeo.com/554523559?share=copy"><img src="musicVideos.webp" alt="Music Videos Vimeo" width="45%"/></a>
 
-<br>
+</p>
 
 ⚡️ Fun fact: My first contact with programming was an interactive installation with 360 kinect and a 3D printed mountains using processing as a programming language, it was part of an exhibition in the Museum of Modern Arts in Buenos Aires, check it out: <a href="https://vimeo.com/256058743">Vimeo</a>
 
