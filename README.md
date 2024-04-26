@@ -1,21 +1,19 @@
 ![banner](banner_v01.png)
 
-
-<table style=<table style="width:100%">">
+<table style=<table style="width:100%">
 <tr>
-<td style="border: none;">
-
-<a href="https://ssanjua.vercel.app"><img src="portfolio.png" alt="Portfolio Web" width="4100"/></a>
-
-</td>
-<td style="border: none;">
-
+<td>
 📍 Currently based in Barcelona, Spain | 💻 Full Stack Developer | 🌟 Passionate about creating technologies that make a difference. With a background in multimedia and a knack for leadership, I specialize in JavaScript, React, Node.js, and more. My journey in tech started with an interactive installation at the Museum of Modern Arts in Buenos Aires, and since then, I've been committed to merging creativity with technology.
+</td>
+<td>
+
+<a href="https://ssanjua.vercel.app"><img src="portfolio.png" alt="Portfolio Web" width="3500"/></a>
 
 </td>
 </tr>
 </table>
 
+### 💬 SOCIALS
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ssanjua.vercel.app)[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paupallares/) 
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/ssanjuaa) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/pupipallares) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ppaupallares@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](www.instagram.com/ppupipallares) [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://soyhenry.slack.com/team/U04MLPSAH71) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@ssanjua) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
@@ -27,14 +25,19 @@
  
 ![Projects](projectsDark.png)
 
-👩‍💻 I'm currently working on a booking site.
+👩‍💻 I'm currently working on a chatBot named ALI 🦾🤖
 
-🧠 I'm currently learning React and Typescript.
+🧠 I'm currently learning more about Backend with Node.
 
 🤔 I'm looking for projects, communities and experience.
 
-📹 I'm also a filmmaker, you can check out my material here: [[Vimeo](https://vimeo.com/ppaupallares)].
+📹 I'm also a filmmaker, founder of Atletico Oeste, you can check out some of my work here: 
 
+<a href="https://www.youtube.com/@atleticooeste8978"><img src="atleticoOeste.webp" alt="Portfolio Web" width="3500"/></a>
+
+<div style="padding:28.125%  0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/554494167?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="REEL2021 - pau pallares - DIS IMAGEN Y SONIDO"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+<br>
 
 ⚡️ Fun fact: My first contact with programming was an interactive installation with 360 kinect and a 3D printed mountains using processing as a programming language, it was part of an exhibition in the Museum of Modern Arts in Buenos Aires, check it out: <a href="https://vimeo.com/256058743">Vimeo</a>
 
