@@ -28,8 +28,9 @@
 
 📹 I'm also a filmmaker, founder of Atletico Oeste, you can check out some of my work here: 
 
-<a align="center" href="https://ppaupallares.vercel.app"><img src="ppaupallares.webp" alt="Atletico Oeste YouTube" width="400"/></a>
-
+<p align="center" >
+<a href="https://ppaupallares.vercel.app"><img src="ppaupallares.webp" alt="Atletico Oeste YouTube" width="400"/></a>
+</p>
 
 ⚡️ Fun fact: My first contact with programming was an interactive installation with 360 kinect and a 3D printed mountains using processing as a programming language, it was part of an exhibition in the Museum of Modern Arts in Buenos Aires, check it out: <a href="https://vimeo.com/256058743">Vimeo</a>
 
