@@ -17,8 +17,7 @@
 
  [![ssanjua's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ssanjua&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ssanjua/github-readme-stats#gh-dark-mode-only) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssanjua&layout=compact&hide=jupyter%20notebook&theme=dark)
 
- 
-![Projects](projectsDark.png)
+<!-- ![Projects](projectsDark.png) -->
 
 👩‍💻 I'm currently working on a chatBot named ALI 🦾🤖
 
@@ -28,9 +27,11 @@
 
 📹 I'm also a filmmaker, founder of Atletico Oeste, you can check out some of my work here: 
 
-<p align="center" >
+<a href="https://ppaupallares.vercel.app">PORTFOLIO AUDIOVISUAL</P>
+
+<!-- <p align="center" >
 <a href="https://ppaupallares.vercel.app"><img src="ppaupallares.webp" alt="Atletico Oeste YouTube" width="400"/></a>
-</p>
+</p> -->
 
 ⚡️ Fun fact: My first contact with programming was an interactive installation with 360 kinect and a 3D printed mountains using processing as a programming language, it was part of an exhibition in the Museum of Modern Arts in Buenos Aires, check it out: <a href="https://vimeo.com/256058743">Vimeo</a>
 
