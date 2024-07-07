@@ -22,7 +22,7 @@
 
 <!-- ![Projects](projectsDark.png) -->
 
-👩‍💻 I'm currently working on a GAME 🦾🤖
+👩‍💻 I'm currently working on a streaming LinkTree, you can follow the repository 🦾🤖
 
 🧠 I'm currently learning Angular.
 
