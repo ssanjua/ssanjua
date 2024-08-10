@@ -1,6 +1,5 @@
-<p align="center" >
   📍 Currently based in Barcelona, Spain | 💻 Full Stack Developer | 🌟 Passionate about creating technologies that make a difference. With a background in multimedia and a knack for leadership, I specialize in JavaScript, React, Node.js, and more. My journey in tech started with an interactive installation at the Museum of Modern Arts in Buenos Aires, and since then, I've been committed to merging creativity with technology
-</p>
+
 
 <p align="center" >
 <a href="https://ssanjua.vercel.app"><img src="portfoliov1.png" alt="Portfolio Web" width="50%"/></a>
@@ -24,7 +23,7 @@
 
 </div>
 
-<!-- ![Projects](projectsDark.png) -->
+------
 
 👩‍💻 I'm currently learning Cybersecurity 🦾🤖
 
@@ -33,6 +32,8 @@
 🤔 I'm looking for projects, communities and experience.
 
 📹 I'm also a filmmaker, founder of Atletico Oeste.
+
+------
 
 
 ⚡️ Fun fact: My first contact with programming was an interactive installation with 360 kinect and a 3D printed mountains using processing, it was part of an exhibition in the Museum of Modern Arts in Buenos Aires, check it out: <a href="https://vimeo.com/256058743">Vimeo</a>
