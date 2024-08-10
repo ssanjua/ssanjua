@@ -1,5 +1,5 @@
 <h3 align="center" >
-##📍 Currently based in Barcelona, Spain | 💻 Full Stack Developer | 🌟 Cybersecirity Script Kiddie
+📍 Currently based in Barcelona, Spain | 💻 Full Stack Developer | 🌟 Cybersecirity Script Kiddie
 </h3>
 
 <p align="center" >
