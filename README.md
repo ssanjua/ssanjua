@@ -1,5 +1,6 @@
-📍 Currently based in Barcelona, Spain | 💻 Full Stack Developer | 🌟 Cybersecirity Script Kiddie
-
+<p align="center" >
+##📍 Currently based in Barcelona, Spain | 💻 Full Stack Developer | 🌟 Cybersecirity Script Kiddie
+</p>
 
 <p align="center" >
 <a href="https://ssanjua.vercel.app"><img src="portfoliov1.png" alt="Portfolio Web" width="50%"/></a>
