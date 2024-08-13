@@ -3,7 +3,7 @@
 </h3>
 
 <p align="center" >
-<a href="https://ssanjua.vercel.app"><img src="portfoliov1.png" alt="Portfolio Web" width="50%"/></a>
+<a href="https://ssanjua.vercel.app"><img src="portfoliov1.png" alt="Portfolio Web" width="80%"/></a>
 </p>
 
 
