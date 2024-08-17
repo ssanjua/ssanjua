@@ -1,8 +1,6 @@
 <div align="center">
 
-### 📍 Currently based in Barcelona, Spain 
-### 💻 Full Stack Developer 
-### 🌟 Cybersecirity Script Kiddie
+## 📍 Currently based in Barcelona, Spain | 💻 Full Stack Developer | 🌟 Cybersecirity Script Kiddie
 
 </div>
 
@@ -20,9 +18,11 @@
 ) 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
+<div width="60%">
 
 ![MyStack](myStack.webp)
 
+</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssanjua&layout=compact&hide=jupyter%20notebook&theme=dark)
 
