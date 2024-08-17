@@ -1,8 +1,10 @@
-<h3 align="center" >
-📍 Currently based in Barcelona, Spain 
-💻 Full Stack Developer 
-🌟 Cybersecirity Script Kiddie
-</h3>
+<div align="center">
+
+### 📍 Currently based in Barcelona, Spain 
+### 💻 Full Stack Developer 
+### 🌟 Cybersecirity Script Kiddie
+
+</div>
 
 <p align="center" >
 <a href="https://ssanjua.vercel.app"><img src="portfoliov1.png" alt="Portfolio Web" width="80%"/></a>
@@ -41,6 +43,5 @@
 
 ⚡️ Fun fact: My first contact with programming was an interactive installation with 360 kinect and a 3D printed mountains using processing, it was part of an exhibition in the Museum of Modern Arts in Buenos Aires, check it out: <a href="https://vimeo.com/256058743">Vimeo</a>
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=ssanjua)
 
 
