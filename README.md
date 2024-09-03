@@ -1,18 +1,13 @@
-
-
-
-<a href="https://ssanjua.vercel.app"><img align="right" src="portfoliov1.png" alt="Portfolio Web" width="60%"/></a>
-### 💻 Full Stack Developer | 🌟 Cybersecirity Script Kiddie
-
-[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ssanjua.vercel.app) [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://ss-link.vercel.app/) ![Audiovisual](https://img.shields.io/badge/Filmmaking%20-DE00A5.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) </br>
+<a href="https://ssanjua.vercel.app"><img align="right" src="portfoliov1.png" alt="Portfolio Web" width="50%"/></a>
+## Full Stack Developer | Cybersecirity Script Kiddie
 
 </br>
 
-<img align="right" alt="ssanjua's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssanjua&layout=compact&hide=jupyter%20notebook&theme=dark&hide_border=true" />
+[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ssanjua.vercel.app) [![Linktree](https://img.shields.io/badge/linktree-89E24B?style=for-the-badge&logo=linktree&logoColor=white)](https://ss-link.vercel.app/) ![Audiovisual](https://img.shields.io/badge/VIDEO%20-DE00A5.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) </br>
 
+</br>
 
 ![My Skills](https://skillicons.dev/icons?i=js,typescript,react,nodejs,mongodb)
-
 
 ---
 
