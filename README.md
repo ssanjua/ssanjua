@@ -1,7 +1,6 @@
 <a href="https://ssanjua.vercel.app"><img align="right" src="portfoliov1.png" alt="Portfolio Web" width="50%"/></a>
 ## Full Stack Developer | Cybersecirity Script Kiddie
 
-</br>
 
 [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ssanjua.vercel.app) [![Linktree](https://img.shields.io/badge/linktree-89E24B?style=for-the-badge&logo=linktree&logoColor=white)](https://ss-link.vercel.app/) ![Audiovisual](https://img.shields.io/badge/VIDEO%20-DE00A5.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) </br>
 
