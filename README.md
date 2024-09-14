@@ -1,4 +1,4 @@
-<a href="https://ssanjua.vercel.app"><img align="right" src="oG-ssanjua.webp" alt="Portfolio Web" width="400px"/></a>
+<a href="https://ssanjua.vercel.app"><img align="left" src="oG-ssanjua.webp" alt="Portfolio Web"  style="margin-right: 20px;" width="400px"/></a>
 ### Full Stack Developer | Cybersecirity Script Kiddie
 
 </br>
@@ -11,15 +11,15 @@
 
 ---
 
-<img align="left" style="margin-right: 20px;" alt="ssanjua's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssanjua&layout=compact&hide=jupyter%20notebook&theme=dark&hide_border=true" />
+<img align="right" style="margin-left: 20px;" alt="ssanjua's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssanjua&layout=compact&hide=jupyter%20notebook&theme=dark&hide_border=true" />
 
 
 ![My Skills](https://skillicons.dev/icons?i=js,typescript,react,nodejs,mongodb)
 
-👩‍💻 I'm currently learning **Cybersecurity** 🦾🤖
-🧠 I'm currently cracking machines in Hack The Box.
-🤔 I'm looking for projects, communities and experience.
-📹 I'm also a filmmaker, founder of Atletico Oeste.
+- 👩‍💻 I'm currently learning **Cybersecurity** 🦾🤖
+- 🧠 I'm currently cracking machines in Hack The Box.
+- 🤔 I'm looking for projects, communities and experience.
+- 📹 I'm also a filmmaker, founder of Atletico Oeste.
 
 
 
