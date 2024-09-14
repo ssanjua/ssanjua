@@ -1,4 +1,4 @@
-<a href="https://ssanjua.vercel.app"><img align="right" src="portfoliov1.png" alt="Portfolio Web" width="50%"/></a>
+<a href="https://ssanjua.vercel.app"><img align="right" src="oG-ssanjua.webp" alt="Portfolio Web" width="50%"/></a>
 ### Full Stack Developer | Cybersecirity Script Kiddie
 
 </br>
