@@ -9,8 +9,9 @@
 
 
 
-
-<img align="right" style="margin-left: 22px;" alt="ssanjua's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssanjua&layout=compact&hide=jupyter%20notebook&theme=dark&hide_border=true" />
+<div align="center">
+  
+<img style="margin-left: 22px;" alt="ssanjua's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssanjua&layout=compact&hide=jupyter%20notebook&theme=dark&hide_border=true" />
 
 
 ![My Skills](https://skillicons.dev/icons?i=js,typescript,react,nodejs,mongodb)
@@ -20,6 +21,7 @@
 - 🤔 I'm looking for projects, communities and experience.
 - 📹 I'm also a filmmaker, founder of Atletico Oeste.
 
+</div>
 
 
 
