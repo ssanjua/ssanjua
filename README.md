@@ -1,4 +1,4 @@
-[<a href="https://ssanjua.vercel.app"><img align="left" src="oG-ssanjua.webp" alt="Portfolio Web"  style="margin-right:20px; margin-bottom:20px;" width="400px"/></a>
+<a href="https://ssanjua.vercel.app"><img align="left" src="oG-ssanjua.webp" alt="Portfolio Web"  style="margin-right:20px; margin-bottom:20px;" width="400px"/></a>
 ### Full Stack Developer | Cybersecirity Script Kiddie
 
 </br>
@@ -15,4 +15,4 @@
 - 🤔 I'm looking for projects, communities and experience.
 - 📹 I'm also a filmmaker, founder of Atletico Oeste.
 
-  ![My Skills](https://skillicons.dev/icons?i=js,typescript,react,nodejs,mongodb)](https://www.youtube.com/watch?v=06sbM5DQrdE&t=33s)
+  ![My Skills](https://skillicons.dev/icons?i=js,typescript,react,nodejs,mongodb)](https://www.youtube.com/watch?v=06sbM5DQrdE&t=33s)(https://www.youtube.com/watch?v=06sbM5DQrdE&t=33s)
