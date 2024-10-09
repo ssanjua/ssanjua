@@ -18,5 +18,6 @@
 - 📹 I'm also a filmmaker, founder of Atletico Oeste.
 
 </br>
+
 ![My Skills](https://skillicons.dev/icons?i=js,typescript,react,nodejs,mongodb)
 
