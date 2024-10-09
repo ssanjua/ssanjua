@@ -8,8 +8,6 @@
 [![linkedin](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paupallares/) [![X](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/pupipallares) [![Gmail](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ppaupallares@gmail.com) [![Instagram](https://img.shields.io/badge/-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](www.instagram.com/ppupipallares) [![YouTube](https://img.shields.io/badge/-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@ssanjua) [![Twitch](https://img.shields.io/badge/-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/ssanjuaa) ![Discord](https://img.shields.io/badge/-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 </br>
-  
-<img align="right" style="margin-left: 22px;" alt="ssanjua's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssanjua&layout=compact&hide=jupyter%20notebook&theme=dark&hide_border=true" />
 
 - 👩‍💻 I'm currently learning **Cybersecurity** 🦾🤖
 - 🧠 I'm currently cracking machines in Hack The Box.
@@ -17,3 +15,5 @@
 - 📹 I'm also a filmmaker, founder of Atletico Oeste.
 
   ![My Skills](https://skillicons.dev/icons?i=js,typescript,react,nodejs,mongodb)
+
+  <img style="margin-left: 22px;" alt="ssanjua's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssanjua&layout=compact&hide=jupyter%20notebook&theme=dark&hide_border=true" />
