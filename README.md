@@ -10,7 +10,7 @@
 </br>
 </br>
 
-<img align="left" style="margin-left: 22px;" alt="ssanjua's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssanjua&layout=compact&hide=jupyter%20notebook&theme=dark&hide_border=true" />
+<img align="left" style="margin-right: 22px;" alt="ssanjua's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssanjua&layout=compact&hide=jupyter%20notebook&theme=dark&hide_border=true" />
 
 - 👩‍💻 I'm currently learning **Cybersecurity** 🦾🤖
 - 🧠 I'm currently cracking machines in Hack The Box.
