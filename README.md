@@ -16,4 +16,4 @@
   🤔 I'm looking for projects, communities and experience. </br>
   📹 I'm also a filmmaker. </br>
 
-![My Skills](https://skillicons.dev/icons?i=js,typescript,react,nodejs,mongodb)
+![My Skills](https://skillicons.dev/icons?i=js,typescript,python,react,nodejs,mongodb,mysql)
