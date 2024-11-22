@@ -1,5 +1,5 @@
 <a href="https://ssanjua.vercel.app"><img align="left" src="oG-ssanjua.webp" alt="Portfolio Web"  style="margin-right:20px; margin-bottom:20px;" width="400px"/></a>
-### Full Stack Developer
+### Full Stack Developer ⭐​⚡
 
 </br>
 
