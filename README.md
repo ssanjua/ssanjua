@@ -12,8 +12,7 @@
 
 <img align="left" style="margin-right:20px; argin-top:20px;" alt="ssanjua's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssanjua&layout=compact&hide=jupyter%20notebook&theme=dark&hide_border=true" />
 
-  👩‍💻 I'm currently working as a Frontend Developer in Stream Hatchet. 🦾 </br>
-  🤔 I'm looking for projects, communities and experience. </br>
-  📹 I'm also a filmmaker. </br>
+I'm currently working as a Frontend Developer in Stream Hatchet. 👩‍💻 </br>
+I'm also a filmmaker. 📹  </br>
 
 ![My Skills](https://skillicons.dev/icons?i=js,typescript,python,react,nodejs,mongodb,mysql)
